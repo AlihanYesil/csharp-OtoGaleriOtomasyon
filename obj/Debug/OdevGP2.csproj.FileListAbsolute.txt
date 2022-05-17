@@ -1,0 +1,16 @@
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\bin\Debug\OdevGP2.exe.config
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\bin\Debug\OdevGP2.exe
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\bin\Debug\OdevGP2.pdb
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.csproj.AssemblyReference.cache
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form1.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form2.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form3.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Properties.Resources.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.csproj.GenerateResource.cache
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.csproj.CoreCompileInputs.cache
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.exe
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.pdb
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form4.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form5.resources
+C:\Users\aliha\source\uygulamalar\OdevGP2\OdevGP2\obj\Debug\OdevGP2.Form6.resources
